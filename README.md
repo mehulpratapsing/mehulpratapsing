@@ -27,7 +27,7 @@ Build 20+ generative AI applications utilizing Zypher-7B, Mixtral, llama models 
 
 ## 🌍 Let's Connect
 - **Email:** mehulpratapsingh@gmail.com
-- **LinkedIn:** [Mehul Pratap Singh](https://linkedin.com/in/mehulpratapsingh)
+- **LinkedIn:** [Mehul Pratap Singh]([https://linkedin.com/in/mehulpratapsingh](https://www.linkedin.com/in/mehul-pratap-singh-3653481a1/))
 - **Website:** [mehulpratapsingh.com](https://mehulpratapsingh.com) #in build
 
 ## 😄 Pronouns: He/Him
