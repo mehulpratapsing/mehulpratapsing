@@ -13,6 +13,7 @@ I'm an innovative Generative AI Engineer and Python Developer with over 2 years 
 - 🔍 **Exploring:** The latest trends in AI, NLP, and quantum computing.
 
 ## 📚 My Skill Set
+
 - **Programming Languages:** Python (Expert), Java, JavaScript
 - **AI/ML:** TensorFlow, PyTorch, Scikit-learn, NLP, Computer Vision, Reinforcement Learning, LangChain, Hugging Face, LLM Fine-tuning
 - **Cloud & DevOps:** AWS (Lambda, EC2, S3, Data Pipeline), Docker, Kubernetes, CI/CD
